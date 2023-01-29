@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr>
+  <td><img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api?username=RobinHsieh&theme=blueberry&count_private=true&hide_border=true&line_height=20&count_private=true" alt="RobinHsieh-top-progamming-languages" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinHsieh&hide=jupyter%20notebook&layout=compact&theme=blueberry&count_private=true&hide_border=true&count_private=true" alt="RobinHsieh-github-status" /></td>
+</tr></tbody></table>
