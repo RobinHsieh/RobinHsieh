@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### How breathtakingly beautiful ASTs truly are
-
 ```mermaid
 graph TB
 23(NODE_STATEMENT) --> 123(NODE_STATEMENT)
