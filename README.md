@@ -53,7 +53,7 @@ linkStyle 1,3,5,7,9,12,16,18,21,25,27 stroke:purple;
 ```
 
 ## 🛠️ **Building projects with:**
-<p align="left" backgroud="white"> 
+<p align="left" background-color="white"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
